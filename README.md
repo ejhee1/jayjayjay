@@ -1,4 +1,4 @@
-# location 인식 코드
+# scene 전환 및 이벤트 코드
 ```c
 
 using System.Collections;
