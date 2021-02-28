@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/MapboxAR/Examples/Scenes/WorldScaleAR_ECC.unity
+=======
+- path: Assets/MapboxAR/Examples/Scenes/MUSEUM.unity
+>>>>>>> 6f848d9494a99ddaa07e5d6e7b48b92a87b53fd5
   isLoaded: 1
   isActive: 1
   isSubScene: 0
