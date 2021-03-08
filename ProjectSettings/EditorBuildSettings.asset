@@ -9,7 +9,28 @@ EditorBuildSettings:
     path: Assets/Scenes/marker.unity
     guid: 56aa6b835062d3c4a895c02c6a831e9b
   - enabled: 1
-    path: Assets/MapboxAR/Examples/Scenes/WorldScaleAR_Posco.unity
+    path: Assets/Scenes/Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/WorldScaleAR_ECC.unity
+    guid: fcc10f882f2d80343ba5e84c22c85fa3
+  - enabled: 1
+    path: Assets/Scenes/DAE_GD.unity
+    guid: 66925fd387a91f74495178b3b12e6d70
+  - enabled: 1
+    path: Assets/Scenes/WorldScaleAR_GSM.unity
+    guid: 89f8867cb783fda4f8a4a0373bfeb091
+  - enabled: 1
+    path: Assets/Scenes/WorldScaleAR_Lib.unity
+    guid: c8a647c847e2392448fcc3c438a3134e
+  - enabled: 1
+    path: Assets/Scenes/MUSEUM.unity
+    guid: d049a7b367720244281a338fd488e946
+  - enabled: 1
+    path: Assets/Scenes/JUNG_GD.unity
+    guid: d70c600ae338b71448c107cbdc81adda
+  - enabled: 1
+    path: Assets/Scenes/WorldScaleAR_Posco.unity
     guid: c60dfd6bb74264e44b3dbf93e9d129c4
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 78c36ce198202cb41bf6ba9847783ccb,
