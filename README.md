@@ -45,14 +45,15 @@
 
 ## 프로젝트 branch 정리
 
-#### 1.작품 사진 및 설명 모음 branch  
+#### 1.최종 완성본  branch
+https://github.com/jaethewiederholen/jayjayjay/tree/master
+
+#### 2. 작품 사진 및 설명 모음 branch  
 https://github.com/jaethewiederholen/jayjayjay/tree/lee_final
 
-#### 2.마커인식 및 위치인식 branch  
-
-#### 3.게임시스템 관련 SCRIPT branch<br><br>  
+#### 3.게임시스템 및 AR Object 구현 관련 script branch
 https://github.com/jaethewiederholen/jayjayjay/tree/script
-
+<br><br>  
 ## 프로젝트의 목적<br>
 ### 캠퍼스 내에 체험형 야외 AR 미술관을 구현한다. <br>
 
