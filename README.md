@@ -6,9 +6,12 @@
 ## 유튜브 채널 및 시현영상 링크   
 <br>
 
+## Application download
+https://github.com/jaethewiederholen/jayjayjay/tree/APP<br><br><br>
 ##  TODO list
 
 ### [전시회 기획 관련 작업]
+
 
 #### ✅ 전시회 주제 고안<br>
 #### ✅ 전시회 주제와 맞는 작가들 선별<br>
