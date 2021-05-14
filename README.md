@@ -6,7 +6,7 @@
 ## 유튜브 채널 및 시현영상 링크   
 <br>
 
-## Application download
+## ⬇ Application Download Link ⬇
 https://github.com/jaethewiederholen/jayjayjay/tree/APP<br><br><br>
 ##  TODO list
 
