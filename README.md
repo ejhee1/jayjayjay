@@ -7,7 +7,7 @@
 <br>
 
 ## ⬇ Application Download Link ⬇
-https://github.com/jaethewiederholen/jayjayjay/tree/APP<br><br><br>
+https://drive.google.com/file/d/1Lbx66SPc4uvZMpfyRZeaER2mqzUc6v8v/view?usp=sharing<br><br><br>
 ##  TODO list
 
 ### [전시회 기획 관련 작업]
