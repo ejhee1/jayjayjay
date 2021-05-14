@@ -7,7 +7,7 @@
 <br>
 
 ## ⬇ Application Download Link ⬇
-https://github.com/jaethewiederholen/jayjayjay/tree/APP<br><br><br>
+https://drive.google.com/file/d/1Lbx66SPc4uvZMpfyRZeaER2mqzUc6v8v/view?usp=sharing<br><br><br>
 ##  TODO list
 
 ### [전시회 기획 관련 작업]
@@ -74,7 +74,7 @@ https://github.com/jaethewiederholen/jayjayjay/tree/script
 #### 9. 보너스 scene에서 나타나는 새로운 작품들 즐기기<br><br><br>
 ## 프로젝트 아키텍처
 
-<img src="https://user-images.githubusercontent.com/71870316/118229493-0b89bd80-b4c7-11eb-8f97-4d2440b62226.png" width="570 " height="450"><br><br><br>
+<img src="https://user-images.githubusercontent.com/71870316/118229493-0b89bd80-b4c7-11eb-8f97-4d2440b62226.png" width="570 " height="410"><br><br><br>
 
 ## 관련 연구/서비스/시스템 조사 결과 및 한계점 
 
