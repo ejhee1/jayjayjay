@@ -1,6 +1,6 @@
 # jayjayjay  
 
-## 🎨_EWHA CANVAS_ 🎨
+## 🎨EWHA CANVAS🎨
 
 
 ## 유튜브 채널 및 시현영상 링크   
@@ -46,6 +46,7 @@
 ## 프로젝트 branch 정리
 
 #### 1.작품 사진 및 설명 모음 branch  
+[https://github.com/jaethewiederholen/jayjayjay/tree/lee_final]
 
 #### 2.마커인식 및 위치인식 branch  
 
