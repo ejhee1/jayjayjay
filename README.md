@@ -3,7 +3,7 @@
 ## 🎨EWHA CANVAS🎨
 
 
-## 유튜브 채널 및 시현영상 링크   
+## ⬇ 유튜브 채널 및 시현영상 Link ⬇  
 <br>
 
 ## ⬇ Application Download Link ⬇
@@ -95,10 +95,10 @@ https://github.com/google-ar/arcore-unity-sdk
 ##### Mapbox SDK<br>
 https://github.com/mapbox/mapbox-ar-unity
 ##### Unity AR System <br>
-https://github.com/needle-mirror/com.unity.xr.arsubsystems/commit/fd6a6a03159050fba8a28d5ba0fea5b159a9f05f<br>
-https://github.com/sleepingburger/SCIVRE_PROJECT/blob/9a959c2f7ca2ccbfdd965ecd59d3a32c9ce3c8e6/thesis_1/Assets/Scripts/Camera%20Scripts/TouchLogic.cs<br>
+https://github.com/needle-mirror/com.unity.xr.arsubsystems/commit/fd6a6a03159050fba8a28d5ba0fea5b159a9f05f<br><br>
+https://github.com/sleepingburger/SCIVRE_PROJECT/blob/9a959c2f7ca2ccbfdd965ecd59d3a32c9ce3c8e6/thesis_1/Assets/Scripts/Camera%20Scripts/TouchLogic.cs<br><br>
 https://github.com/livedtrid/macao-unity/blob/a71769710d97716b7a9a686532db72beeb494e50/Assets/Samples/Assets/Common/Scripts/TouchController.cs
-<br>
-https://github.com/Burnsychocoes-dev/OpenCvSharp_FaceDetector/blob/2442593973316d9115f4e1ac460fae92f605999e/OpenCVSharp/Assets/Script/Buttons/RecordButton.cs<br>
-https://github.com/Lukasz199312/ClickCraft/blob/5d9af7b738b1f38014663a5905038657b01c4f70/Assets/Scripts/Clicker/ImagePixelBuild.cs<br>
-https://github.com/Burnsychocoes-dev/OpenCvSharp_FaceDetector/blob/2442593973316d9115f4e1ac460fae92f605999e/OpenCVSharp/Assets/Script/Buttons/ChangeSceneOnClickScript.cs<br>
+<br><br>
+https://github.com/Burnsychocoes-dev/OpenCvSharp_FaceDetector/blob/2442593973316d9115f4e1ac460fae92f605999e/OpenCVSharp/Assets/Script/Buttons/RecordButton.cs<br><br>
+https://github.com/Lukasz199312/ClickCraft/blob/5d9af7b738b1f38014663a5905038657b01c4f70/Assets/Scripts/Clicker/ImagePixelBuild.cs<br><br>
+https://github.com/Burnsychocoes-dev/OpenCvSharp_FaceDetector/blob/2442593973316d9115f4e1ac460fae92f605999e/OpenCVSharp/Assets/Script/Buttons/ChangeSceneOnClickScript.cs<br><br>
