@@ -90,11 +90,11 @@ https://github.com/jaethewiederholen/jayjayjay/tree/script
  ##### 장점) 공간적 한계를 거의 극복하였다.<br>
  ##### 단점) VR기기 소유가 일반적이지 않아 접근성이 떨어진다.<br>(미술관 안에서 제공하는 VR체험 같은 경우, VR기기가 제공되지만, 미술관에 가야 한다는 접근성의 문제는 해결되지 않는다.)<br><br>
 ## 구현 참고 자료
-##### AR CORE SDK<br>
+#### AR CORE SDK<br>
 https://github.com/google-ar/arcore-unity-sdk
-##### Mapbox SDK<br>
+#### Mapbox SDK<br>
 https://github.com/mapbox/mapbox-ar-unity
-##### Unity AR System <br>
+#### Unity AR System <br>
 https://github.com/needle-mirror/com.unity.xr.arsubsystems/commit/fd6a6a03159050fba8a28d5ba0fea5b159a9f05f<br><br>
 https://github.com/sleepingburger/SCIVRE_PROJECT/blob/9a959c2f7ca2ccbfdd965ecd59d3a32c9ce3c8e6/thesis_1/Assets/Scripts/Camera%20Scripts/TouchLogic.cs<br><br>
 https://github.com/livedtrid/macao-unity/blob/a71769710d97716b7a9a686532db72beeb494e50/Assets/Samples/Assets/Common/Scripts/TouchController.cs
