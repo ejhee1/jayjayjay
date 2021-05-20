@@ -7,7 +7,8 @@
 <br>
 
 ## ⬇ Application Download Link ⬇
-https://drive.google.com/file/d/1cpUEdgC10st_ZeIHd-Dhy36gntO0Y1kt/view?usp=sharing<br><br><br>
+
+https://github.com/jaethewiederholen/EwhaCanvas/blob/master/EwhaCanvas.apk<br><br><br>
 ##  TODO list
 
 ### [전시회 기획 관련 작업]
@@ -46,16 +47,16 @@ https://drive.google.com/file/d/1cpUEdgC10st_ZeIHd-Dhy36gntO0Y1kt/view?usp=shari
 
 <br>
 
-## 프로젝트 branch 정리
+## 프로젝트 repository 정리
 
-#### 1.최종 완성본  branch
-https://github.com/jaethewiederholen/jayjayjay/tree/master
+#### 1.최종 완성본  
+https://github.com/jaethewiederholen/EwhaCanvas
 
-#### 2. 작품 사진 및 설명 모음 branch  
-https://github.com/jaethewiederholen/jayjayjay/tree/lee_final
+#### 2. 작품 사진 및 설명 모음 
+https://github.com/jaethewiederholen/EwhaCanvas/tree/master/Assets/Resources/작가설명%2C위치사진용%20사진
 
-#### 3.게임시스템 및 AR Object 구현 관련 script branch
-https://github.com/jaethewiederholen/jayjayjay/tree/script
+#### 3.게임시스템 및 AR Object 구현 관련 script 
+https://github.com/jaethewiederholen/EwhaCanvas/tree/master/Assets/Scripts
 <br><br>  
 ## 프로젝트의 목적<br>
 ### 캠퍼스 내에 체험형 야외 AR 미술관을 구현한다. <br>
